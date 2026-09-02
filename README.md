@@ -761,6 +761,10 @@ Zig wrappers and bindings for existing C/C++ libraries, providing idiomatic Zig 
 - [arshidkv12/zig-php](https://github.com/arshidkv12/zig-php) - Write PHP extension in Zig.
 - [OnlyF0uR/pqc-zig](https://github.com/OnlyF0uR/pqc-zig) - Zig bindings and abstractions for [PQClean](https://github.com/PQClean/PQClean/), post-quantum cryptography.
 - [happystraw/phpz](https://github.com/happystraw/phpz) - Build PHP extensions with Zig.
+- [pedronaugusto/zjolt](https://github.com/pedronaugusto/zjolt) - Zig bindings for Jolt Physics — the whole runtime, from shapes and the step to constraints, characters, vehicles, ragdolls, soft bodies and hair. AI-assisted.
+- [pedronaugusto/zecs](https://github.com/pedronaugusto/zecs) - Zig bindings for flecs, Sander Mertens's entity component system — vendored byte for byte. AI-assisted.
+- [pedronaugusto/ztypeset](https://github.com/pedronaugusto/ztypeset) - Text shaping and glyph rasterisation for Zig: vendored FreeType, HarfBuzz, SheenBidi and libunibreak behind one package. AI-assisted.
+- [pedronaugusto/zozz](https://github.com/pedronaugusto/zozz) - Zig bindings for the ozz-animation runtime — skeletal animation sampling. AI-assisted.
 
 ### Build with Zig
 
